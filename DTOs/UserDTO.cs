@@ -1,4 +1,4 @@
-namespace RegistrationLoginAPI.Repository
+namespace RegistrationLoginAPI.Repositories
 {
     public class UserDTO
     {
