@@ -2,6 +2,7 @@ bin/
 .idea/
 .vscode/
 obj/
+.vs/
 
 *.dll
 *.pdb
